@@ -66,6 +66,3 @@ static/
 | DELETE | `/api/placements/all` | Clear all tasks and reset slots and robot |
 | GET | `/api/visualize/racks` | PNG visualization of the rack |
 
-## License
-
-[MIT](LICENSE)
