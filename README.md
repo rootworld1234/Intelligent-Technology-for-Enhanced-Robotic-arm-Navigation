@@ -2,8 +2,7 @@
 
 A web-based smart lab management prototype in which a simulated robotic arm stores and retrieves chemicals between a work slab and a wall-mounted storage rack. It combines a FastAPI backend, a SQLite inventory database and a live 3D digital twin built with Three.js.
 
-![Dashboard](docs/dashboard.png)
-![Simulation](docs/simulation.png)
+
 
 ## Features
 
